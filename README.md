@@ -133,6 +133,12 @@ Install [Node.js](https://nodejs.org/en/) (I've tested with v16).
 
 In the project directory (`alt-alert-twitter-bot`) run `npm install`
 
+## (Optional) Customise the tweet text
+If you want to change the text the bot uses when it quote-tweets, you'll need to edit the `status` param in the `retweet` function in `AltAlertBot.js`.
+
+This is useful if, for example, you want to localise the bot to a different language. Please keep the text polite and informative, and do not
+@mention the account you're retweeting. Unsolicited @mentions are forbidden in the API terms of use and your bot is likely to be shut down if you use them.
+
 ## Run the bot
 In the project directory (`alt-alert-twitter-bot`) run `npm run start`
 
