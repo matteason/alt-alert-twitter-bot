@@ -1,7 +1,6 @@
 # alt-alert-twitter-bot
 A Twitter bot engine which quote-tweets tweets without alt text. 
-Originally used for [@UKGovAltBot](https://twitter.com/UKGovAltBot), [@UKCouncilAltBot](https://twitter.com/UKCouncilAltBot) and [@UKGovAltBot](https://twitter.com/USGovAltBot)
-
+Originally used for [@UKGovAltBot](https://twitter.com/UKGovAltBot), [@UKCouncilAltBot](https://twitter.com/UKCouncilAltBot) and [@USGovAltBot](https://twitter.com/USGovAltBot)
 ![Screenshot of a tweet from UK Gov Alt Bot, quote-tweeting Rishi Sunak. Tweet text: This tweet from Rishi Sunak contains an image without alt text. Alt text is important for blind, partially sighted and neurodivergent people who use screen readers. More info: link to Civil Service alt text guidance](https://user-images.githubusercontent.com/1935173/170481362-40b617a7-84af-45c0-bff3-0644d6da01cf.png)
 
 Blind, visually impaired and neurodivergent people often use screen reader software to help them use websites and apps. 
