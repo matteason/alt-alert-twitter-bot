@@ -1,0 +1,12 @@
+{
+  "consumerKey": "REPLACE_ME",
+  "consumerSecret": "REPLACE_ME",
+  "botAccounts": [
+    {
+      "screenName": "REPLACE_ME",
+      "accessTokenKey": "REPLACE_ME",
+      "accessTokenSecret": "REPLACE_ME",
+      "infoUrl": "https://help.twitter.com/en/using-twitter/picture-descriptions"
+    },
+  ]
+}
