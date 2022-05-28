@@ -155,3 +155,9 @@ This project is licenced under the MIT License. An acknowledgement on your bot's
 If you'd like to, you can support me on Ko-Fi:
 
 <a href='https://ko-fi.com/R5R2CWXB1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+# Bots powered by this project
+As well as the bots I run - [@UKGovAltBot](https://twitter.com/UKGovAltBot), [@UKCouncilAltBot](https://twitter.com/UKCouncilAltBot) and [@USGovAltBot](https://twitter.com/USGovAltBot) - the following bots are also using this engine:
+- [@plymbot](https://twitter.com/plymbot)
+- Err...
+- That's it (for now!)
