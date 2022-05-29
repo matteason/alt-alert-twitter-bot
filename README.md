@@ -6,7 +6,7 @@ Originally used for [@UKGovAltBot](https://twitter.com/UKGovAltBot), [@UKCouncil
 Blind, visually impaired and neurodivergent people often use screen reader software to help them use websites and apps. 
 Screen readers rely on alt text to describe images, but if people don't provide alt text those images aren't accessible to people using screen readers.
 
-This engine powers bots which finds images posted by users the bot is following. If they don't have alt text the bot quote-tweets them, pointing the tweet's author to guidance on how to use alt text.
+This engine powers bots which find images posted by users the bot is following. If they don't have alt text the bot quote-tweets them, pointing the tweet's author to guidance on how to use alt text.
 You can power multiple bots with a single instance of the engine.
 
 # Getting started
