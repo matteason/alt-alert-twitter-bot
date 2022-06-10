@@ -159,5 +159,6 @@ If you'd like to, you can support me on Ko-Fi:
 # Bots powered by this project
 As well as the bots I run - [@UKGovAltBot](https://twitter.com/UKGovAltBot), [@UKCouncilAltBot](https://twitter.com/UKCouncilAltBot) and [@USGovAltBot](https://twitter.com/USGovAltBot) - the following bots are also using this engine:
 - [@plymbot](https://twitter.com/plymbot)
+- [@AltTextWatch](https://twitter.com/AltTextWatch)
 - Err...
 - That's it (for now!)
